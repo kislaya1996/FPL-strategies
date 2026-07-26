@@ -7,3 +7,8 @@ Eventually we might be in a position to create a hybrid strategy that out-perfor
 
 The aim of the project is to create a real world scenario where we learn and explore different ways
 of modelling this complex and dynamic system. 
+
+Clarification: Large parts of the testing, source data ingestion, eval suite, etc  is going to be coded with
+the help of coding agents. I'll try to limit the code generation to parts that are not pertinent to the 
+learning goal. Commits with unreasonably large diffs are probably the ones that have relied on coding agents 
+for the grunt work.  
